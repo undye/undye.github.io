@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://undye.github.io/"/>
-  <updated>2019-03-24T18:29:33.081Z</updated>
+  <updated>2019-03-28T05:00:53.420Z</updated>
   <id>http://undye.github.io/</id>
   
   <author>
@@ -15,6 +15,47 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>making a living</title>
+    <link href="http://undye.github.io/2019/03/28/make-a-living/"/>
+    <id>http://undye.github.io/2019/03/28/make-a-living/</id>
+    <published>2019-03-28T04:05:43.000Z</published>
+    <updated>2019-03-28T05:00:53.420Z</updated>
+    
+    <content type="html"><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script><div id="hbe-security">  <div class="hbe-input-container">  <input type="password" class="hbe-form-control" id="pass" placeholder="no entrance" />    <label for="pass">no entrance</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">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</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    <summary type="html">
+    
+      no entrance
+    
+    </summary>
+    
+      <category term="谋生" scheme="http://undye.github.io/categories/%E8%B0%8B%E7%94%9F/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>一些断章 </title>
+    <link href="http://undye.github.io/2019/03/26/%E4%B8%80%E4%BA%9B%E6%96%AD%E7%AB%A0/"/>
+    <id>http://undye.github.io/2019/03/26/一些断章/</id>
+    <published>2019-03-26T05:17:13.000Z</published>
+    <updated>2019-03-26T05:24:45.019Z</updated>
+    
+    <content type="html"><![CDATA[<p>盐城有着和盐完全不一样的质地，它是沉淀下来的灰色，一层灰撒在一层灰上，堆成了这座城市。在盐城最热的日子里，有心观察的人能窥见它曾经的颜色。那时日光透过尘埃，触到了盐城许久未经抚摸的肌理，凝滞的血液缓缓蒸腾出地表，嶙峋的褶皱抖落尘埃，每条蜿蜒的脊线上都缀着它百世之前的光。<br>盐城，在盐与日光的碰撞中出生。在盐随人世掩没的许多个夏日后，日光再次悄无声息地送回了盐。不是每个路过的人都能看透盐城轻软的易于沦陷的尘纱。-3.24</p><p>黄少天向后仰躺在客厅冰冷的地面，双手手脚循着凉意摊开成大字，伸展着与地面接触的面积。他脚边不远处躺着同他一样急需散热的掌机，屏幕还没暗下，叫唤着此起彼伏的电子音。他缓慢地翻了一个身，把冰镇过的背面重新晾在空气里，像根无人舔舐的大白冰棍，他用侧脸蹭了蹭冰凉的地板，身子向旁挪了一点，寻到更称心如意的地方后，骨肉关节也似乎软了下来，妥妥帖帖地盖在地上，一口舒坦的长气就从嘴里泄出来。这口微叹甫一出口，就在地上覆上层水雾。黄少天斜着眼盯着脸侧的薄雾，头也自然地往后挪了点。<br>他用左手划了个湿漉漉的爱心，爱心很快只剩一行水迹。他皱起眉，又冲地面吹了口气，半直起身子，仔仔细细地划了圈桃心，桃心的两边合衬得很，他满意了半秒，像是终于想起自己在做什么，冰凉凉的脸也蒸上了热气，惊得自己一悚。<br>黄少天一阵风似的跑进卫生间，室内冰凉的温度正好帮他缓解这困窘，面上的和心里的。卫生间的温度本较室外低，他带着风跑进来更觉得这里凉快，解开拉链，手里是热乎的，他又生了些不合时宜的联想……-winter bird</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;盐城有着和盐完全不一样的质地，它是沉淀下来的灰色，一层灰撒在一层灰上，堆成了这座城市。在盐城最热的日子里，有心观察的人能窥见它曾经的颜色。那时日光透过尘埃，触到了盐城许久未经抚摸的肌理，凝滞的血液缓缓蒸腾出地表，嶙峋的褶皱抖落尘埃，每条蜿蜒的脊线上都缀着它百世之前的光。&lt;b
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
