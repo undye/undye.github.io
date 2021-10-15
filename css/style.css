@@ -1339,14 +1339,19 @@ figure.highlight,
 
 /* toc*/
 .toc-article {
-  border: 1px solid #bbb;
-  border-radius: 7px;
+  border-left: 1px solid #8682c4;
+  border-width: 3px;
   margin: 1.1em 0 0 2em;
   padding: 0.7em 0.7em 0 0.7em;
   max-width: 40%; }
 
 .toc-title {
-  font-size: 120%; }
+  font-size: 120%;
+  font-weight: 510;
+  font-family: Arial,Helvetica,sans-serif; }
+
+span.toc-title:hover {
+  background-color: #b6b6e9; }
 
 #toc {
   line-height: 1em;
