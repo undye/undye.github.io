@@ -21,6 +21,9 @@ textarea,
   /* Set your content font stack here: */
   font-family: "PingFangSC-Regular", Helvetica, "Helvetica Neue", "Segoe UI", "Hiragino Sans GB", "Source Han Sans CN", "Microsoft YaHei", "STHeiti", "WenQuanYi Micro Hei", sans-serif !important; }
 
+link {
+  display: inline; }
+
 body {
   background-color: #FFF;
   color: #444;

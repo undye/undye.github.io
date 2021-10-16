@@ -8,7 +8,7 @@
       <link href="/2021/10/16/hexo%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/"/>
       <url>/2021/10/16/hexo%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>建站过程中遇到各种“大大”小小的问题，搜索解决方法的过程遇到很多尚未探索的知识版图，暂且记录目前苟住的方法，希望能做到learn by coding。</p><h3 id="问题汇总"><a href="#问题汇总" class="headerlink" title="问题汇总"></a>问题汇总</h3><h4 id="网站图标无法显示"><a href="#网站图标无法显示" class="headerlink" title="网站图标无法显示"></a>网站图标无法显示</h4><p><strong>描述</strong>：本地页面、火狐浏览器、safari上可以正常显示，Chrome无法正常显示。<br><strong>原因</strong>：在devtool（开发者工具）界面查看对应元素的样式，发现原因是用户代理样式表定义了该元素隐藏。<br>  <code>link &#123;display: none;&#125;</code><br><strong>解决</strong>：在/themes/maupassant/source/css中对同一元素list设置样式即可。<br><code>link&#123;display: inline;&#125; </code></p><ul><li><strong>新副本开启：</strong><ul><li>devtool指南</li><li>markdown教程速通</li><li><a href="https://www.cnblogs.com/qianguyihao/p/7253929.html">css的层叠机制</a> </li></ul></li></ul><h3 id="留几个坑"><a href="#留几个坑" class="headerlink" title="留几个坑"></a>留几个坑</h3><ol><li>评论系统-头像</li><li>代码高亮</li><li>站内搜索</li></ol>]]></content>
       
       
       <categories>
